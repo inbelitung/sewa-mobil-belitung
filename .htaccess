@@ -16,4 +16,4 @@
  Redirect /search https://www.inbelitung.my.id
  Redirect /2023/06/destinasi-wisata-di-pulau-belitung.html https://www.inbelitung.my.id
  Redirect /2018/10/snorkeling-di-belitung-ini-dia-lokasi.html https://www.inbelitung.my.id
- Redirect /2024/* https://www.inbelitung.my.id
+ Redirect /2024/^* https://www.inbelitung.my.id
