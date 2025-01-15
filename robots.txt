@@ -1,0 +1,5 @@
+User-agent: *
+
+Allow: /index.html
+
+Sitemap: https://www.sewamobilbelitung.my.id/sitemap.xml
