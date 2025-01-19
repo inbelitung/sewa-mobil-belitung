@@ -4,9 +4,9 @@ User-agent: Googlebot-Image
 User-agent: Googlebot-Mobile
 User-agent: slurp
 User-agent: bingbot
-Allow: /index.html
+Allow: /
 
 User-agent: *
-Allow: /index.html
+Allow: /
 
 Sitemap: https://www.inbelitung.my.id/sitemap.xml
