@@ -4,25 +4,4 @@
 			<loc>https://www.inbelitung.my.id/</loc>
 			<changefreq>always</changefreq>
 		</url>
-
-		<url>
-			<loc>https://www.inbelitung.my.id/#home</loc>
-			<changefreq>always</changefreq>
-		</url>
-
-		<url>
-			<loc>https://www.inbelitung.my.id/#mobil</loc>
-			<changefreq>always</changefreq>
-		</url>
-
-		<url>
-			<loc>https://www.inbelitung.my.id/#gallery-tamu</loc>
-			<changefreq>always</changefreq>
-		</url>
-
-		<url>
-			<loc>https://www.inbelitung.my.id/#contact-person</loc>
-			<changefreq>always</changefreq>
-		</url>
 	</urlset>
-
