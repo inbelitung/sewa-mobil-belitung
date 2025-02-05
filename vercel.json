@@ -1,5 +1,5 @@
 {
     "rewrites": [
-        {"source": "/(.*)", "destination": "https://www.inbelitung.my.id"}
+        {"source": "/(.*)", "destination": "/"}
     ]
 }
