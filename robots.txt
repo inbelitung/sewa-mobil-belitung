@@ -3,4 +3,6 @@ User-agent: Googlebot
 User-agent: Googlebot-Image
 User-agent: Mediapartners-Google
 Allow: /
-Disallow:
+Disallow: /*.svg$
+Disallow: /p/paket-tour-belitung-terlengkap.html
+Disallow: /2018/10/snorkeling-di-belitung-ini-dia-lokasi.html
