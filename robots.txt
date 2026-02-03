@@ -1,5 +1,2 @@
 User-agent: *
-User-agent: Googlebot
-User-agent: Googlebot-Image
-User-agent: Mediapartners-Google
 Allow: /
